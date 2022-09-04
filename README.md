@@ -1,0 +1,2 @@
+# PescadoGamesLauncherStoreSite
+PescadoGamesLauncher(Store)用のサイトです
